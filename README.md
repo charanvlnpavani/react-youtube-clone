@@ -1,8 +1,10 @@
-Responsive YouTube Clone
+**Responsive YouTube Clone**
+
+**Check it** https://react-youtube-clone-k456s48h0-pvlnchrans-projects.vercel.app/
 
 A fully responsive YouTube clone built with ReactJS, designed to showcase video playback, dynamic data fetching, and user-friendly design.
 
-Features
+**Features**
 
     •	Navbar, Sidemenu, and Feed:
 
@@ -16,7 +18,7 @@ Sidebar menu items trigger actions that update the feed dynamically, ensuring a 
 • ReactJS Best Practices:
 Implemented using React Router, hooks, and modular components to maintain scalability and reusability.
 
-Tech Stack
+**Tech Stack**
 
     •	ReactJS: For building a responsive user interface.
     •	React-Router-Dom: For seamless navigation and routing.
@@ -24,22 +26,19 @@ Tech Stack
     •	CSS with Media Queries: For styling and ensuring responsiveness.
     •	Hooks and State Management: To handle application state effectively.
 
-Deployment
+**Deployment**
 
 The application is deployed online for public access.
 
-How It Works
+**How It Works**
 
     1.	Navbar: Includes search bar, icons, and profile image for user interactions.
     2.	Sidemenu: Features a dynamic menu list and subscription list. Clicking menu items triggers feed updates.
     3.	Feed: Fetches and displays videos, channel details, views, and timestamps from the YouTube API.
     4.	Player: Automatically plays the selected video with a dynamic update to the player component.
 
-Screenshots
 
-Add screenshots of your app here.
-
-Get Started
+**Get Started**
 
 To set up this project locally:
 
@@ -48,8 +47,8 @@ cd project-folder
 npm install  
 npm start
 
-Future Enhancements
+**Future Enhancements**
 
     •	Add user authentication for personalized recommendations.
     •	Enhance video recommendations with machine learning APIs.
-    •	Improve comment section with real-time updates.
+    •	Improve the comment section with real-time updates.
